@@ -26,3 +26,5 @@ console.log( "el indice de masa corporal es " + person.weight / (person.height*p
 document.write("el indice de masa corporal es " + person.weight / (person.height*person.height));
 
 
+
+
